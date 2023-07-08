@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7w0WszlFDFrShcZFDPuRSr4+INsNCy5Uz/hESfpjQP6KkQg8eiHxvI8UyPwldojznOVGR/o9UFPH+IC/BG0KmA==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\Store\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tulio\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\tulio\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\tulio\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
